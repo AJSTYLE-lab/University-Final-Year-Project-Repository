@@ -75,7 +75,7 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 
 ## 📬 Contact
 
-**Ahmed Javed**  
-[aj483267@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/m-ahmed-/)] | [https://www.datascienceportfol.io/Muhammad_Ahmed]
-
----
+**📛 Name:** Ahmed Javed  
+📧 **Email:** [aj483267@gmail.com](mailto:aj483267@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/m-ahmed-](https://www.linkedin.com/in/m-ahmed-/)  
+🌐 **Portfolio:** [datascienceportfol.io/Muhammad_Ahmed](https://www.datascienceportfol.io/Muhammad_Ahmed)
