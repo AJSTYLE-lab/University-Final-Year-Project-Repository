@@ -56,10 +56,8 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 7. Query data using LLM (natural language interface).
 
 ---
+🎥 [Demo video]
 
-## 📊 GIS Dashboard Preview
-
-> _Insert screenshots or link to demo here if available._
 
 ---
 
