@@ -1,12 +1,12 @@
 # University Final Year Project: 🦟 Mosquito Surveillance System
 
-An AI-powered system for detecting mosquito habitat **risk zones** using Sentinel-2 imagery, environmental data, and geospatial visualization. Combines object detection (YOLOv5), GIS mapping, and a natural language interface via Large Language Models (LLMs).
+An AI-powered system for detecting mosquito habitat **risk zones** using Sentinel-2 imagery, environmental data, and geospatial visualization. Combines object detection (YOLOv12), GIS mapping, and a natural language interface via Large Language Models (LLMs).
 
 ---
 
 ## 📌 Project Overview
 
-This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** mosquito breeding zones using satellite imagery and environmental factors like temperature, humidity, and vegetation index. The system includes:
+This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** mosquito breeding zones using satellite imagery and environmental factors like temperature, humidity, and precipitation (rainfall). The system includes:
 
 - Object detection using Sentinel-2 imagery.
 - Environmental data integration for model enhancement.
@@ -19,15 +19,15 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 ## 🚀 Features
 
 - 🛰️ **Satellite Image Annotation:** 80 Sentinel-2 images annotated using Roboflow.
-- 🧠 **Model Training:** Trained 4 object detection models; YOLOv5 with environmental data performed best.
+- 🧠 **Model Training:** Trained 4 object detection models; YOLOv12 performed best.
 - 📈 **Evaluation Metrics:**  
   - **mAP@50:** 29.8%  
   - **Precision:** 29.2%  
   - **Recall:** 69.0%
 - 🔌 **API Integration:** Deployed model via Roboflow and connected to frontend using FastAPI.
-- 🌍 **GIS Dashboard:** Interactive map showing mosquito risk zones with environmental overlays.
+- 🌍 **GIS Dashboard:** Interactive map, bar chart, pie chart, line graph, and stacked-bar chart for insights and assist in decision making.
 - 🤖 **LLM Integration:** Enables users to query structured data in natural language.
-- 🗃️ **Backend:** Relational database designed to store and manage environmental and detection data.
+- 🗃️ **Backend:** Relational database designed to manage structured data.
 
 ---
 
@@ -36,21 +36,20 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 | Category             | Technologies Used                                           |
 |---------------------|-------------------------------------------------------------|
 | Programming          | Python, MySQL                                               |
-| ML/DL Frameworks     | YOLOv5, TensorFlow, Scikit-learn                            |
+| ML/DL Frameworks     | YOLOv12, TensorFlow, Scikit-learn                            |
 | Geospatial Tools     | QGIS, Google Earth Engine                                   |
 | Annotation Platform  | Roboflow                                                    |
-| API & Backend        | FastAPI, MySQL Workbench                                    |
-| Frontend & Dashboard | HTML/CSS, JS (or your stack), Roboflow API Integration     |
-| LLM Integration      | OpenAI API (or similar, for querying structured data)       |
-| Collaboration        | Git, Trello, Microsoft Teams, Slack                         |
+| API & Backend        | FastAPI, MySQL Workbench, Roboflow API                                     |
+| Frontend & Dashboard | React.js, Roboflow API Integration     |
+| LLM Integration      | Gemini API (for querying structured data)       |
+| Collaboration        | Git, Trello, Microsoft Teams, Slack, Google Classroom                         |
 
 ---
 
 ## 🧪 Model Workflow
 
 1. Annotate Sentinel-2 images in Roboflow.
-2. Train multiple object detection models (YOLOv5 variants).
-3. Integrate environmental data into training pipeline.
+2. Train multiple object detection models (YOLO variants).
 4. Select best model based on mAP/Precision/Recall.
 5. Deploy via Roboflow API.
 6. Visualize output on GIS dashboard.
@@ -64,27 +63,19 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 
 ---
 
-## 📚 Future Improvements
-
-- Improve model performance using more labeled data.
-- Automate environmental data ingestion from remote sensors.
-- Expand LLM capabilities for deeper insights.
-- Integrate real-time weather data for dynamic prediction.
-
----
-
 ## 🤝 Acknowledgments
 
-- **FAST-NUCES** – Final Year Project Support  
-- **Omdena** – Inspired methodology from Urban Green Space Mapping  
-- **Roboflow** – Annotation & Deployment  
-- **OpenAI** – LLM integration support
+- **FAST-NUCES** – Final Year Project Support.
+- **Supervisor** - Maam Mamoona Akbar Khan.
+- **Omdena** – Inspired methodology from Urban Green Space Mapping.  
+- **Roboflow** – Annotation & Deployment.  
+- **Gemini AI** – LLM integration support.
 
 ---
 
 ## 📬 Contact
 
 **Ahmed Javed**  
-[Email] | [LinkedIn] | [GitHub]
+[aj483267@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/m-ahmed-/)] | [https://www.datascienceportfol.io/Muhammad_Ahmed]
 
 ---
