@@ -65,7 +65,6 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 
 - **FAST-NUCES** – Final Year Project Support.
 - **Supervisor** - Maam Mamoona Akbar Khan.
-- **Omdena** – Inspired methodology from Urban Green Space Mapping.  
 - **Roboflow** – Annotation & Deployment.  
 - **Gemini AI** – LLM integration support.
 
