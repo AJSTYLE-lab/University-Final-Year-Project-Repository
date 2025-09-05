@@ -1,3 +1,5 @@
+![Mosquito Surveillance Poster](https://raw.githubusercontent.com/AJSTYLE-lab/University-Final-Year-Project-Repository/main/S25-19.jpeg)
+
 # University Final Year Project: 🦟 Mosquito Surveillance System
 
 An AI-powered system for detecting mosquito habitat **risk zones** using Sentinel-2 imagery, environmental data, and geospatial visualization. Combines object detection (YOLOv12), GIS mapping, and a natural language interface via Large Language Models (LLMs).
