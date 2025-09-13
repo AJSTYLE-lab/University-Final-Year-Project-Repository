@@ -39,12 +39,12 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 |---------------------|-------------------------------------------------------------|
 | Programming          | Python, MySQL                                               |
 | ML/DL Frameworks     | YOLOv12, TensorFlow, Scikit-learn                            |
-| Geospatial Tools     | QGIS, Google Earth Engine                                   |
+| Geospatial Tools     | Google Earth Engine                                   |
 | Annotation Platform  | Roboflow                                                    |
 | API & Backend        | FastAPI, MySQL Workbench, Roboflow API                                     |
 | Frontend & Dashboard | React.js, Roboflow API Integration     |
 | LLM Integration      | Gemini API (for querying structured data)       |
-| Collaboration        | Git, Trello, Microsoft Teams, Slack, Google Classroom                         |
+| Collaboration        | Git, Trello, Microsoft Teams, Google Classroom                         |
 
 ---
 
@@ -66,7 +66,7 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 ## 🤝 Acknowledgments
 
 - **FAST-NUCES** – Final Year Project Support.
-- **Supervisor** - Maam Mamoona Akbar Khan.
+- **Supervisor** - Ms. Mamoona Akbar Khan.
 - **Roboflow** – Annotation & Deployment.  
 - **Gemini AI** – LLM integration support.
 
