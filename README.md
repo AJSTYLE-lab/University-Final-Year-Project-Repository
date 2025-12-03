@@ -59,6 +59,7 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 
 ---
 🎥 [Demo video](https://drive.google.com/file/d/102Gw8QG4SKZuSFaEEr28wvaZFtAbYDPM/view?usp=drive_link)
+<video src="https://drive.google.com/uc?export=download&id=102Gw8QG4SKZuSFaEEr28wvaZFtAbYDPM" controls width="100%" preload="metadata"></video>
 
 ---
 
