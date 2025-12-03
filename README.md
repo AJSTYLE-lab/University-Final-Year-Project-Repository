@@ -58,8 +58,7 @@ This project identifies **High Risk**, **Intermediate Risk**, and **Low Risk** m
 7. Query data using LLM (natural language interface).
 
 ---
-🎥 [Demo video](https://drive.google.com/file/d/14m3WEir_c3vNDUmd_DpqPbQyF14jiT61/view?usp=drive_link)
-
+🎥 [Demo video](https://drive.google.com/file/d/102Gw8QG4SKZuSFaEEr28wvaZFtAbYDPM/view?usp=drive_link)
 
 ---
 
