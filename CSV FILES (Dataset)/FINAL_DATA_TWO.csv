@@ -1,0 +1,570 @@
+,HealthTopic,Population,Distribution,Unit,Time,RegionCode,RegionName,Category,Value
+0,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2018.0,AL,Albania,0-4,0
+1,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,AL,Albania,15-24,0
+2,West Nile virus infection,All cases,Distribution by age,%,2018.0,AL,Albania,25-44,0
+3,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,AL,Albania,45-64,0
+4,West Nile virus infection,All cases,Distribution by age,%,2018.0,AL,Albania,5-14,0
+5,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,AL,Albania,65+,0
+6,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2011.0,AL,Albania,Female,26
+7,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,AL,Albania,Male,0
+8,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,AL,Albania,No,100
+9,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,AL,Albania,Yes,0
+10,West Nile virus infection,All cases,Distribution by age,%,2014.0,AT,Austria,0-4,0
+11,West Nile virus infection,All cases,Distribution by age,%,2017.0,AT,Austria,15-24,0
+12,West Nile virus infection,All cases,Distribution by age,%,2014.0,AT,Austria,25-44,50
+13,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,AT,Austria,45-64,0
+14,West Nile virus infection,All cases,Distribution by age,%,2012.0,AT,Austria,5-14,0
+15,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,AT,Austria,65+,0
+16,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2009.0,AT,Austria,Female,0
+17,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,AT,Austria,Male,0
+18,West Nile virus infection,All cases,Distribution by travel associated,%,2021.0,AT,Austria,No,75
+19,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,AT,Austria,Unknown,0
+20,West Nile virus infection,All cases,Distribution by travel associated,%,2016.0,AT,Austria,Yes,0
+21,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,BE,Belgium,0-4,0
+22,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,BE,Belgium,15-24,0
+23,West Nile virus infection,All cases,Distribution by age,%,2012.0,BE,Belgium,25-44,0
+24,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,BE,Belgium,45-64,0
+25,West Nile virus infection,All cases,Distribution by age,%,2018.0,BE,Belgium,5-14,0
+26,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,BE,Belgium,65+,0
+27,West Nile virus infection,All cases,Distribution by gender,%,2018.0,BE,Belgium,Female,0
+28,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2014.0,BE,Belgium,Male,0
+29,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,BE,Belgium,No,0
+30,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,BE,Belgium,Unknown,50
+31,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,BE,Belgium,Yes,100
+32,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2016.0,BG,Bulgaria,0-4,0
+33,West Nile virus infection,All cases,Distribution by age,%,2022.0,BG,Bulgaria,15-24,0
+34,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2018.0,BG,Bulgaria,25-44,0
+35,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2017.0,BG,Bulgaria,45-64,100
+36,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,BG,Bulgaria,5-14,0
+37,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2019.0,BG,Bulgaria,65+,20
+38,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2022.0,BG,Bulgaria,Female,100
+39,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2014.0,BG,Bulgaria,Male,0
+40,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,BG,Bulgaria,No,71
+41,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,BG,Bulgaria,Unknown,0
+42,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,BG,Bulgaria,Yes,0
+43,West Nile virus infection,All cases,Distribution by age,%,2013.0,HR,Croatia,0-4,0
+44,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,HR,Croatia,15-24,0
+45,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2013.0,HR,Croatia,25-44,20
+46,West Nile virus infection,All cases,Distribution by age,%,2016.0,HR,Croatia,45-64,50
+47,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,HR,Croatia,5-14,0
+48,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2012.0,HR,Croatia,65+,66
+49,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2017.0,HR,Croatia,Female,60
+50,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,HR,Croatia,Male,1
+51,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,HR,Croatia,No,62
+52,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,HR,Croatia,Unknown,37
+53,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,HR,Croatia,Yes,0
+54,West Nile virus infection,All cases,Distribution by age,%,2016.0,CY,Cyprus,0-4,0
+55,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,CY,Cyprus,15-24,0
+56,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2018.0,CY,Cyprus,25-44,0
+57,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,CY,Cyprus,45-64,0
+58,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,CY,Cyprus,5-14,0
+59,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,CY,Cyprus,65+,0
+60,West Nile virus infection,All cases,Distribution by gender,%,2018.0,CY,Cyprus,Female,0
+61,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2018.0,CY,Cyprus,Male,100
+62,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,CY,Cyprus,No,100
+63,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,CY,Cyprus,Unknown,0
+64,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,CY,Cyprus,Yes,0
+65,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,CZ,Czechia,0-4,0
+66,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,CZ,Czechia,15-24,0
+67,West Nile virus infection,All cases,Distribution by age,%,2019.0,CZ,Czechia,25-44,0
+68,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2019.0,CZ,Czechia,45-64,100
+69,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,CZ,Czechia,5-14,0
+70,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,CZ,Czechia,65+,0
+71,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2018.0,CZ,Czechia,Female,40
+72,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2022.0,CZ,Czechia,Male,0
+73,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,CZ,Czechia,No,71
+74,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,CZ,Czechia,Unknown,0
+75,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,CZ,Czechia,Yes,0
+76,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,DK,Denmark,0-4,0
+77,West Nile virus infection,All cases,Distribution by age,%,2022.0,DK,Denmark,15-24,0
+78,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,DK,Denmark,25-44,0
+79,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,DK,Denmark,45-64,0
+80,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,DK,Denmark,5-14,0
+81,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,DK,Denmark,65+,0
+82,West Nile virus infection,All cases,Distribution by gender,%,2022.0,DK,Denmark,Female,50
+83,West Nile virus infection,All cases,Distribution by gender,%,2022.0,DK,Denmark,Male,50
+84,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,DK,Denmark,No,0
+85,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,DK,Denmark,Unknown,0
+86,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,DK,Denmark,Yes,100
+87,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,EU27_UK_21,EU (with UK until 2019),0-4,0
+88,West Nile virus infection,All cases,Distribution by age,%,2008.0,EU27_UK_21,EU (with UK until 2019),15-24,12
+89,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2022.0,EU27_UK_21,EU (with UK until 2019),25-44,10
+90,West Nile virus infection,All cases,Distribution by age,%,2016.0,EU27_UK_21,EU (with UK until 2019),45-64,32
+91,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,EU27_UK_21,EU (with UK until 2019),5-14,0
+92,West Nile virus infection,All cases,Distribution by age,%,2020.0,EU27_UK_21,EU (with UK until 2019),65+,57
+93,West Nile virus infection,All cases,Distribution by gender,%,2010.0,EU27_UK_21,EU (with UK until 2019),Female,44
+94,West Nile virus infection,All cases,Distribution by gender,%,2020.0,EU27_UK_21,EU (with UK until 2019),Male,66
+95,West Nile virus infection,All cases,Distribution by travel associated,%,2010.0,EU27_UK_21,EU (with UK until 2019),No,97
+96,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,EU27_UK_21,EU (with UK until 2019),Unknown,0
+97,West Nile virus infection,All cases,Distribution by travel associated,%,2021.0,EU27_UK_21,EU (with UK until 2019),Yes,3
+98,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,EU27_21,EU (without UK),0-4,0
+99,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2015.0,EU27_21,EU (without UK),15-24,4
+100,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2008.0,EU27_21,EU (without UK),25-44,16
+101,West Nile virus infection,All cases,Distribution by age,%,2022.0,EU27_21,EU (without UK),45-64,28
+102,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2011.0,EU27_21,EU (without UK),5-14,0
+103,West Nile virus infection,All cases,Distribution by age,%,2014.0,EU27_21,EU (without UK),65+,52
+104,West Nile virus infection,All cases,Distribution by gender,%,2023.0,EU27_21,EU (without UK),Female,34
+105,West Nile virus infection,All cases,Distribution by gender,%,2014.0,EU27_21,EU (without UK),Male,68
+106,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,EU27_21,EU (without UK),No,95
+107,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,EU27_21,EU (without UK),Unknown,0
+108,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,EU27_21,EU (without UK),Yes,3
+109,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,EUEEAUK_21,EU/EEA (with UK until 2019),0-4,0
+110,West Nile virus infection,All cases,Distribution by age,%,2013.0,EUEEAUK_21,EU/EEA (with UK until 2019),15-24,2
+111,West Nile virus infection,All cases,Distribution by age,%,2022.0,EUEEAUK_21,EU/EEA (with UK until 2019),25-44,10
+112,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2023.0,EUEEAUK_21,EU/EEA (with UK until 2019),45-64,33
+113,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,EUEEAUK_21,EU/EEA (with UK until 2019),5-14,0
+114,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2021.0,EUEEAUK_21,EU/EEA (with UK until 2019),65+,52
+115,West Nile virus infection,All cases,Distribution by gender,%,2015.0,EUEEAUK_21,EU/EEA (with UK until 2019),Female,26
+116,West Nile virus infection,All cases,Distribution by gender,%,2019.0,EUEEAUK_21,EU/EEA (with UK until 2019),Male,59
+117,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,EUEEAUK_21,EU/EEA (with UK until 2019),No,97
+118,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,EUEEAUK_21,EU/EEA (with UK until 2019),Unknown,0
+119,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,EUEEAUK_21,EU/EEA (with UK until 2019),Yes,4
+120,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,EUEEA30_21,EU/EEA (without UK),0-4,0
+121,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,EUEEA30_21,EU/EEA (without UK),15-24,0
+122,West Nile virus infection,All cases,Distribution by age,%,2012.0,EUEEA30_21,EU/EEA (without UK),25-44,9
+123,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,EUEEA30_21,EU/EEA (without UK),45-64,24
+124,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2009.0,EUEEA30_21,EU/EEA (without UK),5-14,11
+125,West Nile virus infection,All cases,Distribution by age,%,2012.0,EUEEA30_21,EU/EEA (without UK),65+,55
+126,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2017.0,EUEEA30_21,EU/EEA (without UK),Female,0
+127,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2012.0,EUEEA30_21,EU/EEA (without UK),Male,0
+128,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,EUEEA30_21,EU/EEA (without UK),No,95
+129,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,EUEEA30_21,EU/EEA (without UK),Unknown,0
+130,West Nile virus infection,All cases,Distribution by travel associated,%,2017.0,EUEEA30_21,EU/EEA (without UK),Yes,2
+131,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,EE,Estonia,0-4,0
+132,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2012.0,EE,Estonia,15-24,0
+133,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,EE,Estonia,25-44,0
+134,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,EE,Estonia,45-64,0
+135,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,EE,Estonia,5-14,0
+136,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,EE,Estonia,65+,0
+137,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2013.0,EE,Estonia,Female,0
+138,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,EE,Estonia,Male,0
+139,West Nile virus infection,All cases,Distribution by age,%,2023.0,FI,Finland,0-4,0
+140,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,FI,Finland,15-24,0
+141,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,FI,Finland,25-44,0
+142,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,FI,Finland,45-64,0
+143,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,FI,Finland,5-14,0
+144,West Nile virus infection,All cases,Distribution by age,%,2022.0,FI,Finland,65+,100
+145,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2013.0,FI,Finland,Female,0
+146,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2017.0,FI,Finland,Male,0
+147,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,FI,Finland,No,0
+148,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,FI,Finland,Unknown,100
+149,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,FI,Finland,Yes,0
+150,West Nile virus infection,All cases,Distribution by age,%,2011.0,FR,France,0-4,0
+151,West Nile virus infection,All cases,Distribution by age,%,2021.0,FR,France,15-24,0
+152,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,FR,France,25-44,0
+153,West Nile virus infection,All cases,Distribution by age,%,2015.0,FR,France,45-64,100
+154,West Nile virus infection,All cases,Distribution by age,%,2013.0,FR,France,5-14,0
+155,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,FR,France,65+,0
+156,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2018.0,FR,France,Female,59
+157,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2019.0,FR,France,Male,50
+158,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,FR,France,No,93
+159,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,FR,France,Unknown,0
+160,West Nile virus infection,All cases,Distribution by travel associated,%,2016.0,FR,France,Yes,100
+161,West Nile virus infection,All cases,Distribution by age,%,2021.0,DE,Germany,0-4,0
+162,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2019.0,DE,Germany,15-24,20
+163,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,DE,Germany,25-44,0
+164,West Nile virus infection,All cases,Distribution by age,%,2022.0,DE,Germany,45-64,42
+165,West Nile virus infection,All cases,Distribution by age,%,2019.0,DE,Germany,5-14,0
+166,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2018.0,DE,Germany,65+,0
+167,West Nile virus infection,All cases,Distribution by gender,%,2020.0,DE,Germany,Female,21
+168,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,DE,Germany,Male,0
+169,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,DE,Germany,No,9
+170,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,DE,Germany,Unknown,0
+171,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,DE,Germany,Yes,90
+172,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,EL,Greece,0-4,0
+173,West Nile virus infection,All cases,Distribution by age,%,2012.0,EL,Greece,15-24,3
+174,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,EL,Greece,25-44,0
+175,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2014.0,EL,Greece,45-64,13
+176,West Nile virus infection,All cases,Distribution by age,%,2018.0,EL,Greece,5-14,0
+177,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,EL,Greece,65+,0
+178,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2008.0,EL,Greece,Female,0
+179,West Nile virus infection,All cases,Distribution by gender,%,2012.0,EL,Greece,Male,57
+180,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,EL,Greece,No,99
+181,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,EL,Greece,Unknown,0
+182,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,EL,Greece,Yes,0
+183,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2012.0,HU,Hungary,0-4,0
+184,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,HU,Hungary,15-24,0
+185,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,HU,Hungary,25-44,0
+186,West Nile virus infection,All cases,Distribution by age,%,2020.0,HU,Hungary,45-64,66
+187,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2016.0,HU,Hungary,5-14,0
+188,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2023.0,HU,Hungary,65+,40
+189,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2015.0,HU,Hungary,Female,27
+190,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2014.0,HU,Hungary,Male,70
+191,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,HU,Hungary,No,100
+192,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,HU,Hungary,Unknown,0
+193,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,HU,Hungary,Yes,0
+194,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,IS,Iceland,0-4,0
+195,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,IS,Iceland,15-24,0
+196,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,IS,Iceland,25-44,0
+197,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,IS,Iceland,45-64,0
+198,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,IS,Iceland,5-14,0
+199,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,IS,Iceland,65+,0
+200,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2022.0,IS,Iceland,Female,0
+201,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,IS,Iceland,Male,0
+202,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,IE,Ireland,0-4,0
+203,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,IE,Ireland,15-24,0
+204,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,IE,Ireland,25-44,0
+205,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,IE,Ireland,45-64,0
+206,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,IE,Ireland,5-14,0
+207,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,IE,Ireland,65+,0
+208,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,IE,Ireland,Female,0
+209,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,IE,Ireland,Male,0
+210,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,IE,Ireland,No,0
+211,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,IE,Ireland,Unknown,0
+212,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,IE,Ireland,Yes,100
+213,West Nile virus infection,All cases,Distribution by age,%,2015.0,IT,Italy,0-4,0
+214,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,IT,Italy,15-24,0
+215,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,IT,Italy,25-44,0
+216,West Nile virus infection,All cases,Distribution by age,%,2020.0,IT,Italy,45-64,35
+217,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,IT,Italy,5-14,0
+218,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2009.0,IT,Italy,65+,81
+219,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2009.0,IT,Italy,Female,0
+220,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2011.0,IT,Italy,Male,0
+221,West Nile virus infection,All cases,Distribution by travel associated,%,2021.0,IT,Italy,No,100
+222,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,IT,Italy,Unknown,0
+223,West Nile virus infection,All cases,Distribution by travel associated,%,2017.0,IT,Italy,Yes,1
+224,West Nile virus infection,All cases,Distribution by gender,%,2018.0,XK,Kosovo,Female,42
+225,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2014.0,XK,Kosovo,Male,100
+226,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,LV,Latvia,0-4,0
+227,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,LV,Latvia,15-24,0
+228,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,LV,Latvia,25-44,0
+229,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,LV,Latvia,45-64,0
+230,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,LV,Latvia,5-14,0
+231,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,LV,Latvia,65+,0
+232,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2021.0,LV,Latvia,Female,0
+233,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2019.0,LV,Latvia,Male,0
+234,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,LI,Liechtenstein,0-4,0
+235,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,LI,Liechtenstein,15-24,0
+236,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,LI,Liechtenstein,25-44,0
+237,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,LI,Liechtenstein,45-64,0
+238,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,LI,Liechtenstein,5-14,0
+239,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,LI,Liechtenstein,65+,0
+240,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2023.0,LI,Liechtenstein,Female,0
+241,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2021.0,LI,Liechtenstein,Male,0
+242,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,LT,Lithuania,0-4,0
+243,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,LT,Lithuania,15-24,0
+244,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,LT,Lithuania,25-44,0
+245,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,LT,Lithuania,45-64,0
+246,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2012.0,LT,Lithuania,5-14,0
+247,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,LT,Lithuania,65+,0
+248,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,LT,Lithuania,Female,0
+249,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2019.0,LT,Lithuania,Male,0
+250,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,LU,Luxembourg,0-4,0
+251,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,LU,Luxembourg,15-24,0
+252,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,LU,Luxembourg,25-44,0
+253,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,LU,Luxembourg,45-64,0
+254,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,LU,Luxembourg,5-14,0
+255,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,LU,Luxembourg,65+,0
+256,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,LU,Luxembourg,Female,0
+257,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2018.0,LU,Luxembourg,Male,0
+258,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,MT,Malta,0-4,0
+259,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,MT,Malta,15-24,0
+260,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,MT,Malta,25-44,0
+261,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,MT,Malta,45-64,0
+262,West Nile virus infection,All cases,Distribution by age,%,2022.0,MT,Malta,5-14,0
+263,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,MT,Malta,65+,0
+264,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2013.0,MT,Malta,Female,0
+265,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2016.0,MT,Malta,Male,0
+266,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,MT,Malta,No,0
+267,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,MT,Malta,Unknown,0
+268,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,MT,Malta,Yes,100
+269,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,ME,Montenegro,0-4,0
+270,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2012.0,ME,Montenegro,15-24,100
+271,West Nile virus infection,All cases,Distribution by age,%,2012.0,ME,Montenegro,25-44,0
+272,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2012.0,ME,Montenegro,45-64,0
+273,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2013.0,ME,Montenegro,5-14,0
+274,West Nile virus infection,All cases,Distribution by age,%,2012.0,ME,Montenegro,65+,0
+275,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2013.0,ME,Montenegro,Female,0
+276,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2012.0,ME,Montenegro,Male,0
+277,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,ME,Montenegro,No,100
+278,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,ME,Montenegro,Unknown,0
+279,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,ME,Montenegro,Yes,25
+280,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,NL,Netherlands,0-4,0
+281,West Nile virus infection,All cases,Distribution by age,%,2010.0,NL,Netherlands,15-24,0
+282,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,NL,Netherlands,25-44,0
+283,West Nile virus infection,All cases,Distribution by age,%,2011.0,NL,Netherlands,45-64,100
+284,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,NL,Netherlands,5-14,0
+285,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,NL,Netherlands,65+,0
+286,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2021.0,NL,Netherlands,Female,0
+287,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2022.0,NL,Netherlands,Male,0
+288,West Nile virus infection,All cases,Distribution by travel associated,%,2016.0,NL,Netherlands,No,0
+289,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,NL,Netherlands,Unknown,0
+290,West Nile virus infection,All cases,Distribution by travel associated,%,2011.0,NL,Netherlands,Yes,100
+291,West Nile virus infection,All cases,Distribution by age,%,2021.0,MK,North Macedonia,0-4,0
+292,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2021.0,MK,North Macedonia,15-24,0
+293,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2023.0,MK,North Macedonia,25-44,0
+294,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2021.0,MK,North Macedonia,45-64,0
+295,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,MK,North Macedonia,5-14,0
+296,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2019.0,MK,North Macedonia,65+,66
+297,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2021.0,MK,North Macedonia,Female,33
+298,West Nile virus infection,All cases,Distribution by gender,%,2021.0,MK,North Macedonia,Male,66
+299,West Nile virus infection,All cases,Distribution by travel associated,%,2021.0,MK,North Macedonia,No,100
+300,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,MK,North Macedonia,Unknown,0
+301,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,MK,North Macedonia,Yes,0
+302,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,NO,Norway,0-4,0
+303,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,NO,Norway,15-24,0
+304,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,NO,Norway,25-44,0
+305,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,NO,Norway,45-64,0
+306,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,NO,Norway,5-14,0
+307,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,NO,Norway,65+,0
+308,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,NO,Norway,Female,0
+309,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2011.0,NO,Norway,Male,0
+310,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,PL,Poland,0-4,0
+311,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,PL,Poland,15-24,0
+312,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,PL,Poland,25-44,0
+313,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,PL,Poland,45-64,0
+314,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,PL,Poland,5-14,0
+315,West Nile virus infection,All cases,Distribution by age,%,2022.0,PL,Poland,65+,100
+316,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2009.0,PL,Poland,Female,0
+317,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2013.0,PL,Poland,Male,0
+318,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,PL,Poland,No,0
+319,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,PL,Poland,Unknown,0
+320,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,PL,Poland,Yes,100
+321,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,PT,Portugal,0-4,0
+322,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,PT,Portugal,15-24,0
+323,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,PT,Portugal,25-44,0
+324,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2023.0,PT,Portugal,45-64,0
+325,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2021.0,PT,Portugal,5-14,0
+326,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,PT,Portugal,65+,0
+327,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2016.0,PT,Portugal,Female,0
+328,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,PT,Portugal,Male,0
+329,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,PT,Portugal,No,100
+330,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,PT,Portugal,Unknown,0
+331,West Nile virus infection,All cases,Distribution by travel associated,%,2015.0,PT,Portugal,Yes,0
+332,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,RO,Romania,0-4,0
+333,West Nile virus infection,All cases,Distribution by age,%,2014.0,RO,Romania,15-24,12
+334,West Nile virus infection,All cases,Distribution by age,%,2022.0,RO,Romania,25-44,3
+335,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2015.0,RO,Romania,45-64,18
+336,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,RO,Romania,5-14,0
+337,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2011.0,RO,Romania,65+,63
+338,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2008.0,RO,Romania,Female,0
+339,West Nile virus infection,All cases,Distribution by gender,%,2010.0,RO,Romania,Male,63
+340,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,RO,Romania,No,100
+341,West Nile virus infection,All cases,Distribution by travel associated,%,2010.0,RO,Romania,Unknown,0
+342,West Nile virus infection,All cases,Distribution by travel associated,%,2009.0,RO,Romania,Yes,0
+343,West Nile virus infection,All cases,Distribution by age,%,2023.0,RS,Serbia,0-4,0
+344,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2019.0,RS,Serbia,15-24,3
+345,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2017.0,RS,Serbia,25-44,8
+346,West Nile virus infection,All cases,Distribution by age,%,2022.0,RS,Serbia,45-64,30
+347,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2019.0,RS,Serbia,5-14,0
+348,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,RS,Serbia,65+,2
+349,West Nile virus infection,All cases,Distribution by gender,%,2015.0,RS,Serbia,Female,32
+350,West Nile virus infection,All cases,Distribution by gender,%,2022.0,RS,Serbia,Male,66
+351,West Nile virus infection,All cases,Distribution by travel associated,%,2023.0,RS,Serbia,No,100
+352,West Nile virus infection,All cases,Distribution by travel associated,%,2014.0,RS,Serbia,Unknown,0
+353,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,RS,Serbia,Yes,0
+354,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,SK,Slovakia,0-4,0
+355,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,SK,Slovakia,15-24,0
+356,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2022.0,SK,Slovakia,25-44,0
+357,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2012.0,SK,Slovakia,45-64,0
+358,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,SK,Slovakia,5-14,0
+359,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,SK,Slovakia,65+,0
+360,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2009.0,SK,Slovakia,Female,0
+361,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2015.0,SK,Slovakia,Male,0
+362,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,SK,Slovakia,No,100
+363,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,SK,Slovakia,Unknown,0
+364,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,SK,Slovakia,Yes,0
+365,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2020.0,SI,Slovenia,0-4,0
+366,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2014.0,SI,Slovenia,15-24,0
+367,West Nile virus infection,All cases,Distribution by age,%,2018.0,SI,Slovenia,25-44,0
+368,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,SI,Slovenia,45-64,0
+369,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,SI,Slovenia,5-14,0
+370,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,SI,Slovenia,65+,0
+371,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2021.0,SI,Slovenia,Female,0
+372,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2016.0,SI,Slovenia,Male,0
+373,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,SI,Slovenia,No,100
+374,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,SI,Slovenia,Unknown,0
+375,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,SI,Slovenia,Yes,0
+376,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2018.0,ES,Spain,0-4,0
+377,West Nile virus infection,All cases,Distribution by age,%,2018.0,ES,Spain,15-24,0
+378,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2016.0,ES,Spain,25-44,0
+379,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,ES,Spain,45-64,0
+380,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,ES,Spain,5-14,0
+381,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2022.0,ES,Spain,65+,75
+382,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2019.0,ES,Spain,Female,0
+383,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2010.0,ES,Spain,Male,0
+384,West Nile virus infection,All cases,Distribution by travel associated,%,2020.0,ES,Spain,No,100
+385,West Nile virus infection,All cases,Distribution by travel associated,%,2022.0,ES,Spain,Unknown,0
+386,West Nile virus infection,All cases,Distribution by travel associated,%,2010.0,ES,Spain,Yes,0
+387,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,SE,Sweden,0-4,0
+388,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,SE,Sweden,15-24,0
+389,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2017.0,SE,Sweden,25-44,0
+390,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2009.0,SE,Sweden,45-64,0
+391,West Nile virus infection,All cases,Distribution by age,%,2012.0,SE,Sweden,5-14,0
+392,West Nile virus infection,All cases,Distribution by age,%,2019.0,SE,Sweden,65+,0
+393,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2010.0,SE,Sweden,Female,0
+394,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2020.0,SE,Sweden,Male,0
+395,West Nile virus infection,All cases,Distribution by travel associated,%,2018.0,SE,Sweden,No,0
+396,West Nile virus infection,All cases,Distribution by travel associated,%,2013.0,SE,Sweden,Unknown,0
+397,West Nile virus infection,All cases,Distribution by travel associated,%,2012.0,SE,Sweden,Yes,100
+398,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2017.0,TR,Türkiye,0-4,0
+399,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2011.0,TR,Türkiye,15-24,0
+400,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2010.0,TR,Türkiye,25-44,0
+401,West Nile virus infection,All cases,Distribution by age,%,2019.0,TR,Türkiye,45-64,50
+402,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2016.0,TR,Türkiye,5-14,0
+403,West Nile virus infection,Locally acquired cases,Distribution by age (locally acquired cases),%,2018.0,TR,Türkiye,65+,23
+404,West Nile virus infection,All cases,Distribution by gender,%,2010.0,TR,Türkiye,Female,27
+405,West Nile virus infection,Locally acquired cases,Distribution by gender (locally acquired cases),%,2010.0,TR,Türkiye,Male,72
+406,West Nile virus infection,All cases,Distribution by travel associated,%,2016.0,TR,Türkiye,No,100
+407,West Nile virus infection,All cases,Distribution by travel associated,%,2010.0,TR,Türkiye,Unknown,0
+408,West Nile virus infection,All cases,Distribution by travel associated,%,2017.0,TR,Türkiye,Yes,0
+409,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,UK,United Kingdom,0-4,0
+410,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2013.0,UK,United Kingdom,15-24,0
+411,West Nile virus infection,All cases,Distribution by age,%,2019.0,UK,United Kingdom,25-44,100
+412,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2015.0,UK,United Kingdom,45-64,0
+413,West Nile virus infection,Locally acquired cases,Age-specific rate (locally acquired cases),N/100000,2008.0,UK,United Kingdom,5-14,0
+414,West Nile virus infection,All cases,Distribution by age,%,2017.0,UK,United Kingdom,65+,100
+415,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2016.0,UK,United Kingdom,Female,0
+416,West Nile virus infection,Locally acquired cases,Gender-specific rate (locally acquired cases),N/100000,2010.0,UK,United Kingdom,Male,0
+417,West Nile virus infection,All cases,Distribution by travel associated,%,2019.0,UK,United Kingdom,No,0
+418,West Nile virus infection,All cases,Distribution by travel associated,%,2014.0,UK,United Kingdom,Unknown,0
+419,West Nile virus infection,All cases,Distribution by travel associated,%,2014.0,UK,United Kingdom,Yes,100
+420,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,AT,Austria,No,50
+421,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2020.0,AT,Austria,Not applicable,100
+422,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,AT,Austria,Sexual,0
+423,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2022.0,AT,Austria,Unknown,0
+424,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,AT,Austria,Vector-borne,100
+425,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2020.0,AT,Austria,Yes,0
+426,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2017.0,BE,Belgium,No,0
+427,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2019.0,BE,Belgium,Not applicable,0
+428,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2019.0,BE,Belgium,Unknown,0
+429,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2018.0,BE,Belgium,Yes,0
+430,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2019.0,CZ,Czechia,No,0
+431,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2022.0,CZ,Czechia,Not applicable,100
+432,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2018.0,CZ,Czechia,Unknown,0
+433,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2017.0,CZ,Czechia,Vector-borne,100
+434,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,CZ,Czechia,Yes,0
+435,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2023.0,DK,Denmark,No,0
+436,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,DK,Denmark,Not applicable,25
+437,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,DK,Denmark,Sexual,0
+438,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2023.0,DK,Denmark,Unknown,0
+439,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,DK,Denmark,Vector-borne,0
+440,Zika virus infection,Reported cases,Distribution by travel associated (pregnant women),%,2019.0,DK,Denmark,Yes,100
+441,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,EU27_UK_21,EU (with UK until 2019),Mother-to-child,5
+442,Zika virus infection,Reported cases,Distribution by pregnancy (locally acquired cases),%,2016.0,EU27_UK_21,EU (with UK until 2019),No,85
+443,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2020.0,EU27_UK_21,EU (with UK until 2019),Not applicable,47
+444,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,EU27_UK_21,EU (with UK until 2019),O,25
+445,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2017.0,EU27_UK_21,EU (with UK until 2019),Sexual,100
+446,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2021.0,EU27_UK_21,EU (with UK until 2019),Unknown,100
+447,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2019.0,EU27_UK_21,EU (with UK until 2019),Vector-borne,75
+448,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2019.0,EU27_UK_21,EU (with UK until 2019),Yes,12
+449,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,EU27_21,EU (without UK),Mother-to-child,5
+450,Zika virus infection,Reported cases,Distribution by travel associated (pregnant women),%,2022.0,EU27_21,EU (without UK),No,0
+451,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2020.0,EU27_21,EU (without UK),Not applicable,47
+452,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,EU27_21,EU (without UK),O,25
+453,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,EU27_21,EU (without UK),Sexual,1
+454,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2018.0,EU27_21,EU (without UK),Unknown,34
+455,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2015.0,EU27_21,EU (without UK),Vector-borne,100
+456,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2019.0,EU27_21,EU (without UK),Yes,7
+457,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,EUEEAUK_21,EU/EEA (with UK until 2019),Mother-to-child,5
+458,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2020.0,EUEEAUK_21,EU/EEA (with UK until 2019),No,0
+459,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2018.0,EUEEAUK_21,EU/EEA (with UK until 2019),Not applicable,41
+460,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,EUEEAUK_21,EU/EEA (with UK until 2019),O,25
+461,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,EUEEAUK_21,EU/EEA (with UK until 2019),Sexual,95
+462,Zika virus infection,Reported cases,Distribution by travel associated (pregnant women),%,2015.0,EUEEAUK_21,EU/EEA (with UK until 2019),Unknown,0
+463,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2015.0,EUEEAUK_21,EU/EEA (with UK until 2019),Vector-borne,100
+464,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2023.0,EUEEAUK_21,EU/EEA (with UK until 2019),Yes,98
+465,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,EUEEA30_21,EU/EEA (without UK),Mother-to-child,5
+466,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,EUEEA30_21,EU/EEA (without UK),No,45
+467,Zika virus infection,Reported cases,Distribution by pregnancy (locally acquired cases),%,2017.0,EUEEA30_21,EU/EEA (without UK),Not applicable,0
+468,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,EUEEA30_21,EU/EEA (without UK),O,25
+469,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2017.0,EUEEA30_21,EU/EEA (without UK),Sexual,100
+470,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2019.0,EUEEA30_21,EU/EEA (without UK),Unknown,0
+471,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2018.0,EUEEA30_21,EU/EEA (without UK),Vector-borne,75
+472,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2018.0,EUEEA30_21,EU/EEA (without UK),Yes,8
+473,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2015.0,FI,Finland,No,0
+474,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2023.0,FI,Finland,Not applicable,100
+475,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2017.0,FI,Finland,Unknown,50
+476,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,FI,Finland,Yes,0
+477,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,FR,France,Mother-to-child,0
+478,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2023.0,FR,France,No,0
+479,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2019.0,FR,France,Not applicable,53
+480,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,FR,France,Sexual,100
+481,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,FR,France,Unknown,5
+482,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,FR,France,Vector-borne,96
+483,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2020.0,FR,France,Yes,0
+484,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2020.0,DE,Germany,No,100
+485,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2020.0,DE,Germany,Not applicable,33
+486,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2019.0,DE,Germany,Sexual,0
+487,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2021.0,DE,Germany,Unknown,50
+488,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2019.0,DE,Germany,Vector-borne,0
+489,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2018.0,DE,Germany,Yes,88
+490,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2016.0,EL,Greece,No,0
+491,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,EL,Greece,Not applicable,100
+492,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,EL,Greece,Unknown,0
+493,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2018.0,EL,Greece,Vector-borne,100
+494,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2018.0,EL,Greece,Yes,50
+495,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2023.0,HU,Hungary,No,0
+496,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2019.0,HU,Hungary,Not applicable,100
+497,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,HU,Hungary,Unknown,0
+498,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2023.0,HU,Hungary,Yes,0
+499,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2015.0,IE,Ireland,No,0
+500,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2015.0,IE,Ireland,Not applicable,100
+501,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,IE,Ireland,Sexual,0
+502,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2015.0,IE,Ireland,Unknown,0
+503,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,IE,Ireland,Vector-borne,100
+504,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,IE,Ireland,Yes,33
+505,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,IT,Italy,Mother-to-child,0
+506,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2018.0,IT,Italy,No,0
+507,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,IT,Italy,Not applicable,49
+508,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,IT,Italy,Sexual,0
+509,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2017.0,IT,Italy,Unknown,0
+510,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,IT,Italy,Vector-borne,100
+511,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2020.0,IT,Italy,Yes,100
+512,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2022.0,LT,Lithuania,No,100
+513,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2022.0,LT,Lithuania,Not applicable,0
+514,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2022.0,LT,Lithuania,Unknown,0
+515,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2022.0,LT,Lithuania,Yes,0
+516,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,LU,Luxembourg,No,0
+517,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,LU,Luxembourg,Not applicable,0
+518,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2021.0,LU,Luxembourg,Unknown,0
+519,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,LU,Luxembourg,Yes,0
+520,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2019.0,MT,Malta,No,0
+521,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,MT,Malta,Not applicable,50
+522,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,MT,Malta,Unknown,0
+523,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,MT,Malta,Yes,0
+524,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,NL,Netherlands,Mother-to-child,0
+525,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2017.0,NL,Netherlands,No,0
+526,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2018.0,NL,Netherlands,Not applicable,0
+527,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,NL,Netherlands,Sexual,100
+528,Zika virus infection,Reported cases,Distribution by travel associated (pregnant women),%,2018.0,NL,Netherlands,Unknown,33
+529,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2017.0,NL,Netherlands,Vector-borne,100
+530,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2018.0,NL,Netherlands,Yes,0
+531,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2023.0,NO,Norway,No,0
+532,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2019.0,NO,Norway,Not applicable,50
+533,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2019.0,NO,Norway,Sexual,100
+534,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2016.0,NO,Norway,Unknown,0
+535,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2017.0,NO,Norway,Vector-borne,100
+536,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2016.0,NO,Norway,Yes,100
+537,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,PT,Portugal,Mother-to-child,0
+538,Zika virus infection,Reported cases,Distribution by pregnancy (locally acquired cases),%,2016.0,PT,Portugal,No,100
+539,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2023.0,PT,Portugal,Not applicable,66
+540,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,PT,Portugal,Sexual,100
+541,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,PT,Portugal,Unknown,0
+542,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2023.0,PT,Portugal,Yes,0
+543,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,RO,Romania,No,33
+544,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,RO,Romania,Not applicable,66
+545,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2016.0,RO,Romania,Unknown,0
+546,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2016.0,RO,Romania,Yes,100
+547,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2016.0,SK,Slovakia,No,0
+548,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,SK,Slovakia,Not applicable,66
+549,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2016.0,SK,Slovakia,Unknown,0
+550,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2016.0,SK,Slovakia,Yes,100
+551,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2016.0,SI,Slovenia,No,42
+552,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,SI,Slovenia,Not applicable,42
+553,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2016.0,SI,Slovenia,Unknown,0
+554,Zika virus infection,Reported cases,Distribution by pregnancy (travel associated cases),%,2016.0,SI,Slovenia,Yes,0
+555,Zika virus infection,Reported cases,Distribution by transmission mode (locally acquired cases),%,2016.0,ES,Spain,Mother-to-child,33
+556,Zika virus infection,Reported cases,Distribution by travel associated (all cases),%,2015.0,ES,Spain,No,0
+557,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2015.0,ES,Spain,Not applicable,20
+558,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,ES,Spain,O,25
+559,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,ES,Spain,Sexual,2
+560,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2022.0,ES,Spain,Unknown,75
+561,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2015.0,ES,Spain,Vector-borne,100
+562,Zika virus infection,Reported cases,Distribution by receptive area (travel associated cases),%,2016.0,ES,Spain,Yes,40
+563,Zika virus infection,Reported cases,Distribution by travel associated (pregnant women),%,2017.0,SE,Sweden,No,0
+564,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2015.0,SE,Sweden,Not applicable,0
+565,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2016.0,SE,Sweden,Sexual,0
+566,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2023.0,SE,Sweden,Unknown,0
+567,Zika virus infection,Reported cases,Distribution by transmission mode (pregnant women),%,2017.0,SE,Sweden,Vector-borne,0
+568,Zika virus infection,Reported cases,Distribution by pregnancy (all cases),%,2023.0,SE,Sweden,Yes,0
